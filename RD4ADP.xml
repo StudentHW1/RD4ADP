@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<head>
+  <?xml version="1.0" encoding="UTF-8"?>
+  <meta name="robots" content="noindex">
   <YealinkIPPhoneBook>
   <Title>Yealink</Title>
+  </head>
   <Menu Name="Aqua Design">
     <Unit Name="Agustin Lozada" Phone1="" Phone2="17062002774" Phone3="" default_photo="Resource:"/>
     <Unit Name="Alissa Shreeve" Phone1="" Phone2="17705983546" Phone3="" default_photo="Resource:"/>
